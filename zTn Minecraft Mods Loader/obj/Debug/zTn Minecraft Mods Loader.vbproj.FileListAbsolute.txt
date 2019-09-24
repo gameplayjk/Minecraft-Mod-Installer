@@ -1,0 +1,20 @@
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\obj\Debug\zTn Minecraft Mods Loader.vbprojAssemblyReference.cache
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\obj\Debug\zTn_Minecraft_Mods_Loader.Form1.resources
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\obj\Debug\zTn_Minecraft_Mods_Loader.Resources.resources
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\obj\Debug\zTn Minecraft Mods Loader.vbproj.GenerateResource.cache
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\obj\Debug\zTn Minecraft Mods Loader.vbproj.CoreCompileInputs.cache
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\bin\Debug\zTn Minecraft Mods Loader.exe.config
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\bin\Debug\zTn Minecraft Mods Loader.exe
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\bin\Debug\zTn Minecraft Mods Loader.pdb
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\bin\Debug\zTn Minecraft Mods Loader.xml
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\obj\Debug\zTn Minecraft Mods Loader.exe
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\obj\Debug\zTn Minecraft Mods Loader.xml
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\obj\Debug\zTn Minecraft Mods Loader.pdb
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\obj\Debug\zTn Minecraft Mods Loader.vbproj.CopyComplete
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\bin\Debug\MetroFramework.Design.dll
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\bin\Debug\MetroFramework.dll
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\obj\Debug\zTn_Minecraft_Mods_Loader.mod_detail.resources
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\obj\Debug\zTn_Minecraft_Mods_Loader.loading.resources
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\obj\Debug\zTn_Minecraft_Mods_Loader.SplashScreeen.resources
+C:\Users\Alisson\source\repos\zTn Minecraft Mods Loader\zTn Minecraft Mods Loader\bin\Debug\Zeroit.Framework.Progress.dll

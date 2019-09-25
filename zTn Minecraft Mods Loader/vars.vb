@@ -10,9 +10,9 @@ Public Class vars
     Public Shared ModPicUrl As String
     Public Shared pic_Folder As String = Application.StartupPath + "\pics\"
 
-    Public Shared FTP_USERNAME As String = "ztn@scorpionpremium.com" ' Exemplo: root
-    Public Shared FTP_PASSWORD As String = "coxinha123"  ' exemplo: root123
-    Public Shared FTP_URL As String = "ftp://ftp.scorpionpremium.com/" '  exemplo ftp://ftp.yoursite.com/
+    Public Shared FTP_USERNAME As String = "" ' Exemplo: root
+    Public Shared FTP_PASSWORD As String = ""  ' exemplo: root123
+    Public Shared FTP_URL As String = "" '  exemplo ftp://ftp.yoursite.com/
 
 
 End Class
